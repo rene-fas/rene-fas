@@ -12,5 +12,5 @@ This account will cover various tasks i do during my neue-fische bootcamp.
 - Backend: Mongo.DB
 - Agile & Design
 
-[Link zum persönlichen Github Account](https://github.com/r03n3)
+[link to personal github account](https://github.com/r03n3)
 >The linked accounts includes several smaller projects i work on in my free-time.
