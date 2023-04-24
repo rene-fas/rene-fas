@@ -19,8 +19,8 @@ This account will cover various tasks i do during my neue-fische webdevelopment 
 
 
 ### here an example table 
-| column 1      | column 2      | column3 |
-| ------------- |:-------------:| -------:|
-| col 3 is      | right-aligned |    a    |
-| col 2 is      | centered      |    b    |
-|               |               |    c    |
+| column 1      | column 2      | column 3 |
+| ------------- |:-------------:| -------: |
+| col 3 is      | right-aligned |    a     |
+| col 2 is      | centered      |    b     |
+|               |               |    c     |
