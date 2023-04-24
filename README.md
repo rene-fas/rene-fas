@@ -1,6 +1,6 @@
 # Hello, welcome to my Github-Profile:
 
-This account will cover various tasks i do during my neue-fische webdevelopment bootcamp.
+This account will cover various tasks i do during my neue-fische web development bootcamp.
 
 ### Topics will be:
 
